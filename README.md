@@ -27,7 +27,7 @@ For those familiar with AWS. Lambda code is in **/lambda-code/** and you'll need
 2. Click import and select the **/dashboard/grafana-dashboard-export.json** file.
 ![kibanaImport](/images/image3.png)
 
-4. If all goes successfully you should see the following saved objects post the import. You can now go and view your dashboard by going to **Dashboard** selecting **open** and selecting **Main-Dashboard**
+4. If all goes successfully you should see the following saved objects post the import. You can now go and view your dashboard by going to **Dashboard** selecting **open** and selecting **Cloudtrail-Event-Dashboard**
   ![GrafanaPostImport](/images/image4.png)
 
   ![GrafanaPostImport](/images/image5.png)
