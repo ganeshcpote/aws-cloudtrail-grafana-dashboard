@@ -1,4 +1,4 @@
-# Cloudtrail Grafana Dashboard
+# AWS Cloudtrail Grafana Dashboard
 
 ![GrafanaPostImport](/images/image4.png)
 
