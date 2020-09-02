@@ -1,5 +1,6 @@
 # Cloudtrail Grafana Dashboard
 
+![GrafanaPostImport](/images/image4.png)
 
 ## Installation and Usage instructions
 For those familiar with AWS. Lambda code is in **/lambda-code/** and you'll need to setup an event trigger on your CloudTrail bucket to call the Lambda function. Then visit the Grafana interface and import the **/dashboard/grafana-dashboard-export.json** file which imports the dashboard and all the required searches/virtualizations
